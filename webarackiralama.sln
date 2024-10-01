@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webarackiralama", "webarackiralama\webarackiralama.csproj", "{DC5B08C2-8659-4385-ABA2-5264E455BFA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBModel", "DBModel\DBModel.csproj", "{97E17B03-8E08-4B7A-9B9B-65BF4C6A4F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC5B08C2-8659-4385-ABA2-5264E455BFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5B08C2-8659-4385-ABA2-5264E455BFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5B08C2-8659-4385-ABA2-5264E455BFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5B08C2-8659-4385-ABA2-5264E455BFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E17B03-8E08-4B7A-9B9B-65BF4C6A4F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E17B03-8E08-4B7A-9B9B-65BF4C6A4F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E17B03-8E08-4B7A-9B9B-65BF4C6A4F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E17B03-8E08-4B7A-9B9B-65BF4C6A4F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77336B3D-1994-402A-B3AB-DB2E3F2B8778}
+	EndGlobalSection
+EndGlobal

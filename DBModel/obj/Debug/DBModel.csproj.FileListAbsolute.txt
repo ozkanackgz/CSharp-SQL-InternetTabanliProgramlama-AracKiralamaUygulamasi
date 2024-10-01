@@ -1,0 +1,12 @@
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\bin\Debug\DBModel.dll
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\bin\Debug\DBModel.pdb
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\obj\Debug\DBModel.csproj.AssemblyReference.cache
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\obj\Debug\DBModel.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\obj\Debug\DBModel.dll
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\obj\Debug\DBModel.pdb
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\bin\Debug\DBModel.dll.config
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\bin\Debug\EntityFramework.dll
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\bin\Debug\EntityFramework.xml
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozkan\source\repos\webarackiralama\DBModel\obj\Debug\DBModel.csproj.Up2Date
